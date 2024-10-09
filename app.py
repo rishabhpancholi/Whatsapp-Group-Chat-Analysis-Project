@@ -2,10 +2,7 @@ import streamlit as st
 import seaborn as sns
 import preprocessor, helper
 import matplotlib.pyplot as plt
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
 
 
 def centered_header_and_title(header, title):

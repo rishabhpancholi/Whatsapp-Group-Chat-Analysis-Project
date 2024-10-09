@@ -3,7 +3,7 @@ import seaborn as sns
 import preprocessor, helper
 import matplotlib.pyplot as plt
 
-
+st.set_page_config(layout="wide")
 
 def centered_header_and_title(header, title):
     st.markdown(f"<h4 style='text-align: center;'>{header}</h4>", unsafe_allow_html=True)

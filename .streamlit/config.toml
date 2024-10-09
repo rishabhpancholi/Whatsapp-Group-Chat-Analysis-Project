@@ -3,3 +3,7 @@ primaryColor="#023702"
 backgroundColor="#c5eac5"
 secondaryBackgroundColor="#5ae25a"
 textColor="#044604"
+
+
+[ui]
+layout = "wide"

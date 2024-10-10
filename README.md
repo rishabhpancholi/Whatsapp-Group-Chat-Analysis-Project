@@ -1,7 +1,9 @@
 # Whatsapp-Chat-Analysis-Project
 
 i.) It analyzes User uploaded Whatsapp chats and provides interesting figures such as activity heat maps, wordcloud , top users, most frequent words and more.
+
 ii.) It works on both group and personal chats.
+
 iii.) Streamlit is used to make the website.
 
 ## These are the different images of the app:

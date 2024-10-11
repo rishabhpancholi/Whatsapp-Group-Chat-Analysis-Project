@@ -86,7 +86,7 @@ if uploaded_file is not None:
         st.header("")
         st.markdown("<hr style='border:2px solid green;'>", unsafe_allow_html=True)
 
-        st.title("Weekly Activity Map")
+        st.title("Weekly Activity Heatmap")
 
         fig, ax = plt.subplots()
         user_heatmap = helper.activity_heatmap(selected_user, df)

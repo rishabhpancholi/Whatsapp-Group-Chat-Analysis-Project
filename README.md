@@ -35,3 +35,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+Live Demo - https://my-whatsapp-group-chat-analyzer-rp.streamlit.app/
